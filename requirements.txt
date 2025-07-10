@@ -1,3 +1,4 @@
 scikit-learn
 mlflow==2.0
 dagshub
+pandas
